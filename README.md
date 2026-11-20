@@ -1,4 +1,4 @@
-# CRYONEX – Cold Chain Logistics Intelligence
+# Cold Chain Logistics Intelligence
 
 ## Project Overview
 
@@ -154,7 +154,7 @@ This project uses a simulated dataset created for educational, analytical, and p
 
 ## Author
 
-Mahmoud Amin
+Mahmoud Amin |
 Data Analyst | SQL | Power BI | Python
 
 Tools: SQL Server, SQL, Power BI, DAX.
